@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LAOL.Marketplase.WEB.props" />
+</Project>

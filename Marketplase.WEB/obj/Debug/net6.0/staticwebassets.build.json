@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "H1ViJOwm+L6uqjZEY7RzPrjP9Bon31vHAS68yvH76Pw=",
+  "Source": "NetCore.Marketplase.WEB",
+  "BasePath": "_content/NetCore.Marketplase.WEB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

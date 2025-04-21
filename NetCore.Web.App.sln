@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.AuthAdminRepository", "Marketplase.AuthAdminRepository\NetCore.AuthAdminRepository.csproj", "{B649EF9F-A52D-2835-998A-E7CB9A531E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Marketplase.WEB", "Marketplase.WEB\NetCore.Marketplase.WEB.csproj", "{10F98EED-CB46-68B9-BD5B-B63F071F437C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B649EF9F-A52D-2835-998A-E7CB9A531E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B649EF9F-A52D-2835-998A-E7CB9A531E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B649EF9F-A52D-2835-998A-E7CB9A531E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B649EF9F-A52D-2835-998A-E7CB9A531E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F98EED-CB46-68B9-BD5B-B63F071F437C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F98EED-CB46-68B9-BD5B-B63F071F437C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F98EED-CB46-68B9-BD5B-B63F071F437C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F98EED-CB46-68B9-BD5B-B63F071F437C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BDB0E5C-5B07-42FB-97DA-367E60597F12}
+	EndGlobalSection
+EndGlobal

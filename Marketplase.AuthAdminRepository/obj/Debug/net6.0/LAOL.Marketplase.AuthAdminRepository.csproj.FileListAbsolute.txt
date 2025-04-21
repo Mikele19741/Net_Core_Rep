@@ -1,0 +1,13 @@
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\bin\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.deps.json
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\bin\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.dll
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\bin\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.pdb
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.csproj.AssemblyReference.cache
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.AssemblyInfoInputs.cache
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.AssemblyInfo.cs
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.csproj.CoreCompileInputs.cache
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.sourcelink.json
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.dll
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\refint\LAOL.Marketplase.AuthAdminRepository.dll
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\LAOL.Marketplase.AuthAdminRepository.pdb
+C:\Repos\DAC7\LAOL.DAC7.Lib\LAOL.Marketplase.AuthAdminRepository\obj\Debug\net6.0\ref\LAOL.Marketplase.AuthAdminRepository.dll
