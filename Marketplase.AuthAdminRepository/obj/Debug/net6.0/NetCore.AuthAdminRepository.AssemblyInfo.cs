@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCore.AuthAdminRepository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5bb57224adce6e5de922af98eaacd45520b58e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCore.AuthAdminRepository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCore.AuthAdminRepository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

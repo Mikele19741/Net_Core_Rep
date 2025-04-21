@@ -132,3 +132,4 @@ C:\Repos\Net_Core_Rep\Marketplase.WEB\obj\Debug\net6.0\refint\NetCore.Marketplas
 C:\Repos\Net_Core_Rep\Marketplase.WEB\obj\Debug\net6.0\NetCore.Marketplase.WEB.pdb
 C:\Repos\Net_Core_Rep\Marketplase.WEB\obj\Debug\net6.0\NetCore.Marketplase.WEB.genruntimeconfig.cache
 C:\Repos\Net_Core_Rep\Marketplase.WEB\obj\Debug\net6.0\ref\NetCore.Marketplase.WEB.dll
+C:\Repos\Net_Core_Rep\Marketplase.WEB\obj\Debug\net6.0\NetCore.Marketplase.WEB.sourcelink.json
